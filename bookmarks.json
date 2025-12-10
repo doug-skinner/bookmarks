@@ -1,141 +1,41 @@
 [
   {
     "id": 1,
-    "title": "GitHub",
-    "url": "https://github.com",
-    "description": "Where the world builds software. Millions of developers and companies build, ship, and maintain their software on GitHub.",
-    "categories": ["Development", "Tools"],
-    "dateAdded": "2025-01-15",
-    "favicon": "https://github.githubassets.com/favicons/favicon.svg",
-    "notes": "Version control and collaboration platform"
+    "title": "GitHub Actions, Issues and Pages to build a daily planner",
+    "url": "https://til.simonwillison.net/github-actions/daily-planner",
+    "description": "Simon Willison demonstrates how to create an automated daily planner using GitHub's features. Uses a private repository with GitHub Issues as the planning interface, GitHub Actions to maintain an index, and GitHub Pages to serve a redirector page.",
+    "categories": ["GitHub", "Automation", "Productivity"],
+    "dateAdded": "2025-12-10",
+    "favicon": "https://til.simonwillison.net/favicon.ico",
+    "notes": "Clever use of GitHub Issues + Actions + Pages for personal planning"
   },
   {
     "id": 2,
-    "title": "MDN Web Docs",
-    "url": "https://developer.mozilla.org",
-    "description": "Resources for developers, by developers. Comprehensive documentation for web technologies including HTML, CSS, and JavaScript.",
-    "categories": ["Development", "Documentation", "Learning"],
-    "dateAdded": "2025-01-10",
-    "favicon": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
-    "notes": "The best resource for web development documentation"
+    "title": "Effective Harnesses for Long-Running Agents",
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "description": "Anthropic presents solutions for enabling AI agents to make consistent progress across multiple context windows by using specialized initializer and coding agents that maintain structured environment state.",
+    "categories": ["AI", "Agents", "Development"],
+    "dateAdded": "2025-12-10",
+    "favicon": "https://www.anthropic.com/favicon.ico",
+    "notes": "Claude Agent SDK patterns for long-running tasks"
   },
   {
     "id": 3,
-    "title": "Stack Overflow",
-    "url": "https://stackoverflow.com",
-    "description": "The largest online community for programmers to learn, share knowledge, and build careers.",
-    "categories": ["Development", "Community"],
-    "dateAdded": "2025-01-08",
-    "favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico"
+    "title": "Building and deploying with GitHub Actions and Pages",
+    "url": "https://til.simonwillison.net/github-actions/github-pages",
+    "description": "A minimal pattern for creating and publishing custom websites using GitHub Actions workflows and GitHub Pages hosting, with step-by-step configuration instructions and practical examples.",
+    "categories": ["GitHub", "CI/CD", "Deployment"],
+    "dateAdded": "2025-12-10",
+    "favicon": "https://til.simonwillison.net/favicon.ico"
   },
   {
     "id": 4,
-    "title": "CSS-Tricks",
-    "url": "https://css-tricks.com",
-    "description": "Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.",
-    "categories": ["Development", "Design", "Learning"],
-    "dateAdded": "2025-01-12",
-    "favicon": "https://css-tricks.com/favicon.svg",
-    "notes": "Great tutorials and tips"
-  },
-  {
-    "id": 5,
-    "title": "Can I Use",
-    "url": "https://caniuse.com",
-    "description": "Browser support tables for modern web technologies. Check compatibility across different browsers.",
-    "categories": ["Development", "Tools"],
-    "dateAdded": "2025-01-14",
-    "favicon": "https://caniuse.com/img/favicon-128.png"
-  },
-  {
-    "id": 6,
-    "title": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "description": "Social news website focusing on computer science and entrepreneurship. Run by Y Combinator.",
-    "categories": ["News", "Technology", "Community"],
-    "dateAdded": "2025-01-05",
-    "favicon": "https://news.ycombinator.com/favicon.ico"
-  },
-  {
-    "id": 7,
-    "title": "Dribbble",
-    "url": "https://dribbble.com",
-    "description": "Discover the world's top designers and creative professionals. Design inspiration and portfolios.",
-    "categories": ["Design", "Inspiration"],
-    "dateAdded": "2025-01-11",
-    "favicon": "https://cdn.dribbble.com/assets/favicon-b38525134603b9513174ec887944bde1a869eb6cd414f4d640ee48ab2a15a26b.ico"
-  },
-  {
-    "id": 8,
-    "title": "Behance",
-    "url": "https://www.behance.net",
-    "description": "Showcase and discover creative work. The world's largest creative network for showcasing and discovering creative work.",
-    "categories": ["Design", "Inspiration", "Portfolio"],
-    "dateAdded": "2025-01-09",
-    "favicon": "https://www.behance.net/favicon.ico"
-  },
-  {
-    "id": 9,
-    "title": "Product Hunt",
-    "url": "https://www.producthunt.com",
-    "description": "The best new products in tech. Discover the latest mobile apps, websites, and technology products.",
-    "categories": ["Technology", "Inspiration", "Products"],
-    "dateAdded": "2025-01-13",
-    "favicon": "https://ph-static.imgix.net/ph-ios-icon.png"
-  },
-  {
-    "id": 10,
-    "title": "DEV Community",
-    "url": "https://dev.to",
-    "description": "A constructive and inclusive social network for software developers. Share knowledge and grow together.",
-    "categories": ["Development", "Community", "Learning"],
-    "dateAdded": "2025-01-07",
-    "favicon": "https://dev.to/favicon.ico"
-  },
-  {
-    "id": 11,
-    "title": "Smashing Magazine",
-    "url": "https://www.smashingmagazine.com",
-    "description": "For web designers and developers. In-depth articles about design, UX, and development.",
-    "categories": ["Development", "Design", "Learning"],
-    "dateAdded": "2025-01-06",
-    "favicon": "https://www.smashingmagazine.com/images/favicon/favicon.svg"
-  },
-  {
-    "id": 12,
-    "title": "Figma",
-    "url": "https://www.figma.com",
-    "description": "The collaborative interface design tool. Design, prototype, and gather feedback all in one place.",
-    "categories": ["Design", "Tools"],
-    "dateAdded": "2025-01-15",
-    "favicon": "https://static.figma.com/app/icon/1/favicon.svg",
-    "notes": "Best design tool for collaboration"
-  },
-  {
-    "id": 13,
-    "title": "Unsplash",
-    "url": "https://unsplash.com",
-    "description": "Beautiful free images and photos. The internet's source for visuals. Powered by creators everywhere.",
-    "categories": ["Design", "Resources"],
-    "dateAdded": "2025-01-04",
-    "favicon": "https://unsplash.com/favicon.ico"
-  },
-  {
-    "id": 14,
-    "title": "Vercel",
-    "url": "https://vercel.com",
-    "description": "Develop. Preview. Ship. The best frontend teams deploy to Vercel. Instant deployments and global CDN.",
-    "categories": ["Development", "Hosting", "Tools"],
-    "dateAdded": "2025-01-14",
-    "favicon": "https://vercel.com/favicon.ico"
-  },
-  {
-    "id": 15,
-    "title": "Netlify",
-    "url": "https://www.netlify.com",
-    "description": "Build, deploy, and scale modern web projects. The fastest way to combine your favorite tools and APIs.",
-    "categories": ["Development", "Hosting", "Tools"],
-    "dateAdded": "2025-01-13",
-    "favicon": "https://www.netlify.com/favicon.ico"
+    "title": "Making Wrong Code Look Wrong",
+    "url": "https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/",
+    "description": "Joel Spolsky explores how coding conventions can make errors visually apparent, using security examples with unsafe versus safe strings to demonstrate how architectural choices help programmers catch bugs through pattern recognition.",
+    "categories": ["Programming", "Best Practices", "Security"],
+    "dateAdded": "2025-12-10",
+    "favicon": "https://www.joelonsoftware.com/favicon.ico",
+    "notes": "Classic article on Apps Hungarian and making bugs obvious"
   }
 ]
