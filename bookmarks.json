@@ -37,5 +37,15 @@
     "dateAdded": "2025-12-10",
     "favicon": "https://www.joelonsoftware.com/favicon.ico",
     "notes": "Classic article on Apps Hungarian and making bugs obvious"
+  },
+  {
+    "id": 5,
+    "title": "Claude Code: Best Practices for Agentic Coding",
+    "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
+    "description": "Anthropic outlines proven strategies for using Claude Code, their command-line tool for agentic coding, including setup optimization, workflow patterns, and techniques for maximizing productivity across various development environments and codebases.",
+    "categories": ["AI", "Development", "Best Practices"],
+    "dateAdded": "2025-12-10",
+    "favicon": "https://www.anthropic.com/favicon.ico",
+    "notes": "Essential guide for Claude Code workflows and productivity"
   }
 ]
