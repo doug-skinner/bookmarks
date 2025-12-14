@@ -47,5 +47,14 @@
     "dateAdded": "2025-12-10",
     "favicon": "https://www.anthropic.com/favicon.ico",
     "notes": "Essential guide for Claude Code workflows and productivity"
+  },
+  {
+    "id": 6,
+    "title": "Link Blog",
+    "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
+    "description": "Simon Willison's thoughts and insights on link blogging, discussing the practice of curating and sharing interesting links with commentary.",
+    "categories": ["Blogging", "Writing", "Web"],
+    "dateAdded": "2025-12-14",
+    "favicon": "https://simonwillison.net/favicon.ico"
   }
 ]
