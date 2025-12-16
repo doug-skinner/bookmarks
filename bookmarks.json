@@ -1,69 +1,157 @@
 [
   {
-    "id": 1,
-    "title": "GitHub Actions, Issues and Pages to build a daily planner",
-    "url": "https://til.simonwillison.net/github-actions/daily-planner",
+    "categories": [
+      "GitHub",
+      "Automation",
+      "Productivity"
+    ],
+    "dateAdded": "2025-12-10",
     "description": "Simon Willison demonstrates how to create an automated daily planner using GitHub's features. Uses a private repository with GitHub Issues as the planning interface, GitHub Actions to maintain an index, and GitHub Pages to serve a redirector page.",
-    "categories": ["GitHub", "Automation", "Productivity"],
-    "dateAdded": "2025-12-10",
     "favicon": "https://til.simonwillison.net/favicon.ico",
-    "notes": "Clever use of GitHub Issues + Actions + Pages for personal planning"
+    "id": 1,
+    "notes": "Clever use of GitHub Issues + Actions + Pages for personal planning",
+    "title": "GitHub Actions, Issues and Pages to build a daily planner",
+    "url": "https://til.simonwillison.net/github-actions/daily-planner"
   },
   {
-    "id": 2,
-    "title": "Effective Harnesses for Long-Running Agents",
-    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
-    "description": "Anthropic presents solutions for enabling AI agents to make consistent progress across multiple context windows by using specialized initializer and coding agents that maintain structured environment state.",
-    "categories": ["AI", "Agents", "Development"],
+    "categories": [
+      "AI",
+      "Agents",
+      "Development"
+    ],
     "dateAdded": "2025-12-10",
+    "description": "Anthropic presents solutions for enabling AI agents to make consistent progress across multiple context windows by using specialized initializer and coding agents that maintain structured environment state.",
     "favicon": "https://www.anthropic.com/favicon.ico",
-    "notes": "Claude Agent SDK patterns for long-running tasks"
+    "id": 2,
+    "notes": "Claude Agent SDK patterns for long-running tasks",
+    "title": "Effective Harnesses for Long-Running Agents",
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
   },
   {
+    "categories": [
+      "GitHub",
+      "CI/CD",
+      "Deployment"
+    ],
+    "dateAdded": "2025-12-10",
+    "description": "A minimal pattern for creating and publishing custom websites using GitHub Actions workflows and GitHub Pages hosting, with step-by-step configuration instructions and practical examples.",
+    "favicon": "https://til.simonwillison.net/favicon.ico",
     "id": 3,
     "title": "Building and deploying with GitHub Actions and Pages",
-    "url": "https://til.simonwillison.net/github-actions/github-pages",
-    "description": "A minimal pattern for creating and publishing custom websites using GitHub Actions workflows and GitHub Pages hosting, with step-by-step configuration instructions and practical examples.",
-    "categories": ["GitHub", "CI/CD", "Deployment"],
-    "dateAdded": "2025-12-10",
-    "favicon": "https://til.simonwillison.net/favicon.ico"
+    "url": "https://til.simonwillison.net/github-actions/github-pages"
   },
   {
-    "id": 4,
-    "title": "Making Wrong Code Look Wrong",
-    "url": "https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/",
+    "categories": [
+      "Programming",
+      "Best Practices",
+      "Security"
+    ],
+    "dateAdded": "2025-12-10",
     "description": "Joel Spolsky explores how coding conventions can make errors visually apparent, using security examples with unsafe versus safe strings to demonstrate how architectural choices help programmers catch bugs through pattern recognition.",
-    "categories": ["Programming", "Best Practices", "Security"],
-    "dateAdded": "2025-12-10",
     "favicon": "https://www.joelonsoftware.com/favicon.ico",
-    "notes": "Classic article on Apps Hungarian and making bugs obvious"
+    "id": 4,
+    "notes": "Classic article on Apps Hungarian and making bugs obvious",
+    "title": "Making Wrong Code Look Wrong",
+    "url": "https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/"
   },
   {
-    "id": 5,
-    "title": "Claude Code: Best Practices for Agentic Coding",
-    "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
-    "description": "Anthropic outlines proven strategies for using Claude Code, their command-line tool for agentic coding, including setup optimization, workflow patterns, and techniques for maximizing productivity across various development environments and codebases.",
-    "categories": ["AI", "Development", "Best Practices"],
+    "categories": [
+      "AI",
+      "Development",
+      "Best Practices"
+    ],
     "dateAdded": "2025-12-10",
+    "description": "Anthropic outlines proven strategies for using Claude Code, their command-line tool for agentic coding, including setup optimization, workflow patterns, and techniques for maximizing productivity across various development environments and codebases.",
     "favicon": "https://www.anthropic.com/favicon.ico",
-    "notes": "Essential guide for Claude Code workflows and productivity"
+    "id": 5,
+    "notes": "Essential guide for Claude Code workflows and productivity",
+    "title": "Claude Code: Best Practices for Agentic Coding",
+    "url": "https://www.anthropic.com/engineering/claude-code-best-practices"
   },
   {
+    "categories": [
+      "Blogging",
+      "Writing",
+      "Web"
+    ],
+    "dateAdded": "2025-12-14",
+    "description": "Simon Willison's thoughts and insights on link blogging, discussing the practice of curating and sharing interesting links with commentary.",
+    "favicon": "https://simonwillison.net/favicon.ico",
     "id": 6,
     "title": "Link Blog",
-    "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
-    "description": "Simon Willison's thoughts and insights on link blogging, discussing the practice of curating and sharing interesting links with commentary.",
-    "categories": ["Blogging", "Writing", "Web"],
-    "dateAdded": "2025-12-14",
-    "favicon": "https://simonwillison.net/favicon.ico"
+    "url": "https://simonwillison.net/2024/Dec/22/link-blog/"
   },
   {
+    "categories": [
+      "AI",
+      "OpenAI"
+    ],
+    "dateAdded": "2025-12-16",
+    "description": "Simon Willison's analysis and insights on OpenAI adding a Skills feature, similar to Anthropic's.",
+    "favicon": "https://simonwillison.net/favicon.ico",
     "id": 7,
     "title": "OpenAI Skills",
-    "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-    "description": "Simon Willison's analysis and insights on OpenAI adding a Skills feature, similar to Anthropic's.",
-    "categories": ["AI", "OpenAI"],
+    "url": "https://simonwillison.net/2025/Dec/12/openai-skills/"
+  },
+  {
+    "categories": [
+      "Productivity",
+      "GTD"
+    ],
     "dateAdded": "2025-12-16",
-    "favicon": "https://simonwillison.net/favicon.ico"
+    "description": "A personal write-up about applying Getting Things Done (GTD) practices.",
+    "favicon": "https://jvns.ca/favicon.ico",
+    "id": 8,
+    "title": "Getting Things Done",
+    "url": "https://jvns.ca/blog/2016/09/19/getting-things-done/"
+  },
+  {
+    "categories": [
+      "Editor",
+      "Helix",
+      "Vim"
+    ],
+    "dateAdded": "2025-12-16",
+    "description": "Notes on switching from Vim to Helix and the trade-offs encountered.",
+    "favicon": "https://jvns.ca/favicon.ico",
+    "id": 9,
+    "title": "Notes on switching to Helix from Vim",
+    "url": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/"
+  },
+  {
+    "categories": [
+      "Career",
+      "Management"
+    ],
+    "dateAdded": "2025-12-16",
+    "description": "Thoughts on what managers might not realize about how their teams work and how to improve communication and expectations.",
+    "favicon": "https://jvns.ca/favicon.ico",
+    "id": 10,
+    "title": "Things Your Manager Might Not Know",
+    "url": "https://jvns.ca/blog/things-your-manager-might-not-know/"
+  },
+  {
+    "categories": [
+      "Workplace",
+      "Recognition"
+    ],
+    "dateAdded": "2025-12-16",
+    "description": "Advice on giving credit: tell a coworker's manager when they do great work.",
+    "favicon": "https://jvns.ca/favicon.ico",
+    "id": 11,
+    "title": "When your coworker does great work, tell their manager",
+    "url": "https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/"
+  },
+  {
+    "categories": [
+      "Career",
+      "Documentation"
+    ],
+    "dateAdded": "2025-12-16",
+    "description": "Notes and advice about creating 'brag documents' to summarize accomplishments.",
+    "favicon": "https://jvns.ca/favicon.ico",
+    "id": 12,
+    "title": "Brag Documents",
+    "url": "https://jvns.ca/blog/brag-documents/"
   }
 ]
