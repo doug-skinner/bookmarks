@@ -56,5 +56,14 @@
     "categories": ["Blogging", "Writing", "Web"],
     "dateAdded": "2025-12-14",
     "favicon": "https://simonwillison.net/favicon.ico"
+  },
+  {
+    "id": 7,
+    "title": "OpenAI Skills",
+    "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+    "description": "Simon Willison's analysis and insights on OpenAI adding a Skills feature, similar to Anthropic's.",
+    "categories": ["AI", "OpenAI"],
+    "dateAdded": "2025-12-16",
+    "favicon": "https://simonwillison.net/favicon.ico"
   }
 ]
